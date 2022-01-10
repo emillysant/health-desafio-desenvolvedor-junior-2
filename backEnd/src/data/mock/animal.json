@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cad29475-cc91-4a07-95e6-58f1e59ca19e",
+    "name": "Tobb",
+    "age": "8",
+    "specie": "CACHORRO",
+    "breed": "pitbull",
+    "owner_name": "Luana Guimarães",
+    "owner_phone": "81955957950"
+  },
+  {
+    "id": "c579b1c5-10e7-44f1-8764-1cc993afcc7e",
+    "name": "Chocolate",
+    "age": "6",
+    "specie": "CACHORRRO",
+    "breed": "salsicha",
+    "owner_name": "Renata Nunes",
+    "owner_phone": "81997954222"
+  },
+  {
+    "id": "ef309dce-ec7c-4b29-ab17-a92e01fd3adc",
+    "name": "Francisca",
+    "age": "2",
+    "specie": "GATO",
+    "breed": "SEM RAÇA",
+    "owner_name": "João Pedro",
+    "owner_phone": "81997954208"
+  }
+]

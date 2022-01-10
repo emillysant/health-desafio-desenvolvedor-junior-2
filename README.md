@@ -27,3 +27,7 @@ Será considerado como diferenciais a utilização ou o conhecimento nas seguint
 ### DEPLOY (SURGE)
 
 http://successful-alarm.surge.sh/
+
+### DOCUMENTAÇÃO DA API criada
+
+https://documenter.getpostman.com/view/13917264/UVXgKwmi

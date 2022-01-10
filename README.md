@@ -31,3 +31,22 @@ http://successful-alarm.surge.sh/
 ### DOCUMENTAÇÃO DA API 
 
 https://documenter.getpostman.com/view/13917264/UVXgKwmi
+
+#### Frontend
+
+Foi criado em React.js usando o booststrap e styled-icons para estilização.
+O react-router para criar rotas para as paginas de criação, lista de animais e edição de animais. 
+Fiz o deploy com o surge (link disponível acima)
+
+Para iniciar a aplicação apenas click em start no NPM SCRIPT ou digite 'npm run start' no terminal
+
+#### Backend
+
+Criado em Node, typescript, express, cors e uuid para gerar os id dos animais. 
+A comunicação com banco mySQL foi feita usando o knex. 
+Criei um migration para logar os animais salvos na pasta data.
+Segui uma arquitetura de sotware em Camadas que divide a aplicação em 3 principais parte (Controller, Business e Data)
+
+Para inicializar apenas click em start no NPM SCRIPTS ou digite no terminal'tsc && node ./build/index'.
+Porém também fiz o deploy da aplicação no site do heroku.
+

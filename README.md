@@ -45,7 +45,7 @@ Para iniciar a aplicação apenas click em start no NPM SCRIPT ou digite 'npm ru
 Criado em Node, typescript, express, cors e uuid para gerar os id dos animais. 
 A comunicação com banco mySQL foi feita usando o knex. 
 Criei um migration para logar os animais salvos na pasta data.
-Segui uma arquitetura de sotware em Camadas que divide a aplicação em 3 principais parte (Controller, Business e Data)
+Segui uma arquitetura de software em Camadas que divide a aplicação em 3 principais parte (Controller, Business e Data)
 
 Para inicializar apenas click em start no NPM SCRIPTS ou digite no terminal'tsc && node ./build/index'.
 Porém também fiz o deploy da aplicação no site do heroku.

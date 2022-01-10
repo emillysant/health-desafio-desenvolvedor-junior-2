@@ -28,6 +28,6 @@ Será considerado como diferenciais a utilização ou o conhecimento nas seguint
 
 http://successful-alarm.surge.sh/
 
-### DOCUMENTAÇÃO DA API criada
+### DOCUMENTAÇÃO DA API 
 
 https://documenter.getpostman.com/view/13917264/UVXgKwmi
